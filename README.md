@@ -1,3 +1,21 @@
+About application: Proshop is an ecommerce web application specially designed for gadgets which is packed with following features.
+Customers: 
+-Explore range of gadgets
+-Add products to the Cart
+-Place order
+-Create an account
+-Provide review to the product.
+
+Admins:
+-See and manage list of users 
+-provide/revoke admin rights to/from users
+-See the list of orders
+-Mark order as delivered
+-Add/Edit/remove Products.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
