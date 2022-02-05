@@ -38,6 +38,13 @@ Admin User List:
 Admin Product list:
 ![image](https://user-images.githubusercontent.com/94302838/152632286-24b3690c-b985-4c4c-87f6-4a7ef2860695.png)
 
+Hosted app link with test credentials:
+http://proshop712.herokuapp.com/
+
+customer: reena@example.com / 12345678
+
+Admin: avadhut@example.com / 12345678
+
 
 
 
