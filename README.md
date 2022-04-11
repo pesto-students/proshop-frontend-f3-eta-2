@@ -21,10 +21,10 @@ Customers:
 
 Table of Contents
  1. [Demo](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
- 2. [Installation]
- 3. [Technology Stack]
- 4. [Authors]
- 5. [License]
+ 2. [Installation](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
+ 3. [Technology Stack](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
+ 4. [Authors](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
+ 5. [License](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
 
 # Demo
  [Live Demo](https://proshop712.herokuapp.com/)
