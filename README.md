@@ -33,5 +33,8 @@ Table of Contents
  - Admin: avadhut@example.com / 12345678
  
 # Installation
+1. Clone Repo:
+   (https://github.com/pesto-students/proshop-frontend-f3-eta-2.git)
+
 
 
