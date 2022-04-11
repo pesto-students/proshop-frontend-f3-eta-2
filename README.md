@@ -28,7 +28,7 @@ Table of Contents
 
 Demo
  Live Demo
- - Test Credentials:                   
+ > Test Credentials:                   
  - customer: reena@example.com / 12345678 
  - Admin: avadhut@example.com / 12345678
 
