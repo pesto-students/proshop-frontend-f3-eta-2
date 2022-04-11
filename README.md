@@ -20,8 +20,9 @@ Customers:
 
 
 Table of Contents
- 1.Demo
- 2.Installation
+ 1. Demo
+ 
+ 2. Installation
  3.Technology Stack
  4.Authors
  5.License
