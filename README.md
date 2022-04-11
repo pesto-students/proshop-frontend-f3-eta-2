@@ -20,11 +20,11 @@ Customers:
 
 
 Table of Contents
- 1. Demo
- 2. Installation
- 3. Technology Stack
- 4. Authors
- 5. License
+ 1. [Demo](https://github.com/pesto-students/proshop-frontend-f3-eta-2/blob/master/README.md#demo)
+ 2. [Installation]
+ 3. [Technology Stack]
+ 4. [Authors]
+ 5. [License]
 
 # Demo
  [Live Demo](https://proshop712.herokuapp.com/)
