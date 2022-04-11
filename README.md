@@ -39,7 +39,35 @@ Table of Contents
 2. Install Dependencies(front- end)
 
    cd frontend
+   
    npm i
+   
+3. Install Dependencies(back- end)
+
+   npm i
+   
+4. Seed Database
+
+   Use the following command to put some dummy products in that database.Run it in the root folder.
+   
+   npm run seeder
+   
+
+# Technology Stack
+  We tried to use a completely modern tech stack while testing out some new technologies that we had never used before. This resulted in a fast, performant, and         easily-extensible web app that should be fairly future-proof for the coming next several years. We used:
+
+  > React JS
+  > Redux
+  > HTML
+  > CSS
+
+# Authors
+  > Avadhut Sutar
+  > Reena Melba
+
+# License
+  
+  MIT
 
 
 
