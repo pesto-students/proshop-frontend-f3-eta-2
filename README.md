@@ -27,8 +27,8 @@ Table of Contents
  5. License
 
 # Demo
- > Live Demo
- > Test Credentials:                   
+  Live Demo
+ ## Test Credentials:                   
  - customer: reena@example.com / 12345678 
  - Admin: avadhut@example.com / 12345678
 
