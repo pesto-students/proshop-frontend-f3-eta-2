@@ -35,6 +35,16 @@ Table of Contents
 # Installation
 1. Clone Repo:
    (https://github.com/pesto-students/proshop-frontend-f3-eta-2.git)
+   
+2. Install Dependencies(front- end)
+
+   cd frontend
+   npm i
+
+
+
+
+
 
 
 
